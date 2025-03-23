@@ -1,0 +1,10 @@
+[
+    {
+        "title": "TrueShare",
+        "description": "Aplicativo de transferência de arquivos local com interface gráfica usando PySide6 e ZeroMQ. Permite enviar arquivos entre dispositivos na mesma rede, com descoberta automática e envio eficiente de arquivos.",
+        "link": {
+            "windows": "https://github.com/ryuvi/TrueShare/releases/download/v1.1.2/main.exe",
+            "linux": "https://github.com/ryuvi/TrueShare/releases/download/v1.1.2/main"
+        }
+    }
+]

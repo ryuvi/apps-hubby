@@ -44,6 +44,8 @@ Contribuições são bem-vindas! Se você quiser adicionar um novo software ou m
 4. Envie para o repositório remoto: `git push origin minha-feature`.
 5. Abra um **Pull Request** para revisão.
 
+obs: Por favor, usar commits semanticos, ex [FEAT] <sua feat>, [DOC] <sua mudança em docs>, [FIX] <seu fix>, etc.
+
 ---
 
 ## 📄 Licença
